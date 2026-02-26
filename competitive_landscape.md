@@ -1,0 +1,11 @@
+**What makes Focus Bear different from these apps?**
+- What makes Focus Bear different from the mentioned apps above, is that Focus Bear has a unique approach to helping users with their productivity and focus. Instead of just blocking distractions, Focus Bear also helps users build good habits and routines through proactive habit prompts. Because the other apps are more focused on blocking distractions, while Focus Bear is more focused on building good habits and routines.
+
+**If you were a user, why would you choose Focus Bear over competitors?**
+- If I were a user, I would choose Focus Bear over competitors because it offers a more holistic approach to productivity and focus. Since other apps are more focused on blocking distractions, while Focus Bear is more focused on building good habits and routines.
+
+**What’s one feature that other apps have that Focus Bear doesn’t?**
+- The one feature that the other apps have that Focus Bear doesn't is from the app Cold Turkey, which has a feature called "Frozen Turkey". It is a full computer lock mode, which completely locks, logs off, or shuts down your computer on a schedule to enforce breaks or offline time. This is a level of strictness that Focus Bear doesn't offer.
+
+**Based on your research, what’s one improvement you think Focus Bear could make?**
+- Based on my research, one improvement that I think Focus Bear could make is improving its overall user friendliness and experience. While Focus Bear offers powerful features like distraction blocking and habit prompts, the interface could feel overwhelming for new users, especially those with ADHD who may struggle with complex setups. Adding a guide for the user's first download and use of the app would be a great start to improving the user's experience and giving them a better understanding of how to use the app.Additionally, adding a visual timeline view for daily routines, similar to what Tiimo offers with its color-coded blocks and icons, would make the app more intuitive and easier to navigate at a glance. This would help users quickly understand their schedule, reduce decision fatigue during onboarding, and make the experience of planning routines feel less overwhelming and more accessible.
