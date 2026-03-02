@@ -10,11 +10,12 @@
 |-------------------------------------------------------------|------------------|----------- |
 | Competitive Landscape Analysis (`competitive_landscape.md`) | In Progress      | 2026-03-02 |
 | Issue number 1                                              | In Progress      | 2026-03-02 |
+| Issue number 17                                             | In Progress      | 2026-03-02 |
 
 ## 🔨 In Progress
 | Task                                     | Started    | Notes           |
 |------------------------------------------|------------|-----------------|
-| Kanban Workflow (`Kanban-Workflow.md`)   | 2026-03-02 | Creating board  |
+| Issue number 18                          | 2026-03-02 | Researching     |
 
 ## 📋 Not Started
 | Task     | Priority | Notes    |
@@ -27,8 +28,6 @@
 | Issue 12 | High     | —        |
 | Issue 13 | High     | —        |
 | Issue 14 | High     | —        |
-| Issue 17 | High     | —        |
-| Issue 18 | High     | —        |
 | Issue 19 | High     | —        |
 | Issue 20 | High     | —        |
 
@@ -49,9 +48,14 @@ This section tracks how tasks move through the Kanban columns over time.
 3. **Ready for Review** → Submitted for bot review after revisions
 4. **Approved by Bot** *(current)* → Submitted for bot review. First submission was not approved — feedback requested more specific details and personal evidence. Revised with detailed per-app research notes and resubmitted.
 
-### Kanban Workflow
+### Issue number 17
 1. **Not Started** → Task assigned
-2. **In Progress** *(current)* → Creating board, populating with tasks, documenting movement history
+2. **In Progress** → Creating board, populating with tasks, documenting movement history
+3. **Ready for Review** *(current)* → Submitted for bot review.
+
+### Issue number 18
+1. **Not Started** → Task assigned
+2. **In Progress** *(current)* → Researching, reflecting/documenting, attempting to attend a stand-up meeting
 
 ---
 
