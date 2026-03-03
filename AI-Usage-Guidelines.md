@@ -1,0 +1,19 @@
+### AI Usage Guidelines Reflection
+**When should you use AI for assistance, and when should you rely on your own skills?**
+- I should use AI for asstance when I need to automate repetitive "boilerplate" or "template" code and asks for explanation on unfamiliar web frameworks like Next.js. Another way of asing AI for assitance is to brainstorm a starting point fo a complext CSS layout, but most of the time I should rely on my own skills for the actual logic and design and final decision-making. As a Web Developer intern, I should use AI as a sophisticated reference manual, while my own engineering judgment is required to ensure that the code is secure, efficient, and fits the specific architecture of the Focus Bear platform.
+
+**How can you avoid over-reliance on AI while still benefiting from it?**
+- I can avoid over-reliance on while still benefitting from it by implementing a "struggle timer", where I can attempt to solve or code a technical problem or debug a script on my own for a certain amoung of time, like fifteen to twenty minutes, before seeking help to AI. Furthermore, instead of directly copy-pasting a code, I should manually type out the AI-suggested code to ensure I understand every line of code, which helps reinforce my own coding skills and prevents me from becoming a passive user of the technology.
+
+**What steps will you take to ensure data privacy when using AI tools?**
+- The steps that I will take to ensure data privacy when using AI tools are to strictly follow the rule of never entering a proprietary Focus Bear source code, internal database schemas, or secret credentials like Supabase API keys into any prompts. I should also generalize my questions by using "dummy data" or generic variable names so that the AI never receives specific information about Focus Bear’s internal systems or its users' private data.
+
+### AI Usage Guidelines Tasks
+**Identify one task you can improve using an AI tool, and try it out.**
+- As a Web Developer Intern at Focus Bear, one task that I can significantly improve using an AI tool is to generate a list of TypeScript interfaces and Supabase schema types for the database tables. Since it is tedious to manually write out every property, type, and relation for a complex database, which is also prone to typos. Additionally, by providing the AI with conext about the list of my table columns and ask it to generate the correspong TypeScript interface. By doing these practices, this will allow me to quickly and efficiently set up the "types" for a new feature, ensuring my frontend code is type-safe from the start.
+
+**Review the AI-generated output critically—did it require editing or fact-checking?**
+- I tried to generate an output using AI, after reviewing it I have observed that there some parts require fact-checing before it is ready to use. Specifically, the AI often defaulted to making all properties required, which is not always the case in a database. So I manually change some to "optional" to match my actual database constraints.
+
+**Document one best practice you will follow when using AI tools at Focus Bear.**
+- One best practice that I will follow hen using AI tools at Focus bear is to never commit a ful AI-generated code to a repository without being able to explain every single line of it to a senior developer. Additionally, another best practice to follow is to avoid providing AI with any sensitive information about Focus Bear, such as database schemas, API keys, or user data. This means that if the AI suggests a complex React hook or something that involves using the secret API key, I should first research any unfailiar syntax or lines of code and ask questions to my mentor or senior developer to ensure that I understand the code and that it is secure to use. By ensuring I can justify and explain each line of code exists, I can prevent "black box" code from entering the Focus Bear codebase and maintain my own growth as an engineer. 
