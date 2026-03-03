@@ -11,6 +11,7 @@
 | Competitive Landscape Analysis (`competitive_landscape.md`) | In Progress      | 2026-03-02 |
 | Issue number 1                                              | In Progress      | 2026-03-02 |
 | Issue number 17                                             | In Progress      | 2026-03-02 |
+| Issue 9                                                     | In Progress      | 2026-03-03 |
 
 ## 🔨 In Progress
 | Task                                     | Started    | Notes           |
@@ -22,7 +23,6 @@
 |----------|----------|----------|
 | Issue 7  | High     | —        |
 | Issue 8  | High     | —        |
-| Issue 9  | High     | —        |
 | Issue 10 | High     | —        |
 | Issue 11 | High     | —        |
 | Issue 12 | High     | —        |
@@ -56,6 +56,11 @@ This section tracks how tasks move through the Kanban columns over time.
 ### Issue number 18
 1. **Not Started** → Task assigned
 2. **In Progress** *(current)* → Researching, reflecting/documenting, attempting to attend a stand-up meeting
+
+### Issue number 9
+1. **Not Started** → Task assigned
+2. **In Progress** → Researching, reflecting/documenting, attempting to attend a stand-up meeting
+3. **Ready for Review** *(current)* → Submitted for bot review.
 
 ---
 
