@@ -6,6 +6,10 @@
 
 The ceremony that i think that is the most important for my role as an intern is the Daily Stand-up because as mentioned earlier, it provides a safe and structured opportunity to voice "blockers" and seek guidance before losing significant time to a technical hurdle. Since I am still in the onboarding process, this daily meetings ensures that my work remains aligned with the team's standards and allows my mentors to provide course corrections early in my development tasks. Furthermore, listening to the updates of senior developers during this meeting helps me understand the broader architecture of Focus Bear and how my individual contributions fit into the larger project scope.
 
+## Attend a stand-up meeting and observe how updates are shared.
+
+Updates are shared in a concise and structured manner, with each team member reporting on their progress, blockers, and any additional relevant information. This helps to ensure that everyone is on the same page and that we are working towards the same goals.
+
 ## Document one change you can make to improve your team collaboration.
 
 One change I can make to improve my team collaboration is to be more proactive in my communication with my mentors and team members. This can be done by being more transparent about my progress and any blockers I may be facing. Also, by being more open to feedback and suggestions will help me to ensure that everyone is on the same page and that we are working towards the same goals.
