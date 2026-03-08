@@ -10,6 +10,12 @@ The ceremony that i think that is the most important for my role as an intern is
 
 Updates are shared in a concise and structured manner, with each team member reporting on their progress, blockers, and any additional relevant information. This helps to ensure that everyone is on the same page and that we are working towards the same goals.
 
+In my experience, the Daily Stand-up functions as a synchronization point where each intern and developer concisely reports on their previous day's progress, their plan for the current day, and any active blockers. For example, during my Daily Stand-up meeting, I was the first to provide an update to Sir Jeremy. I reported that I am nearing completion of the onboarding repository and noted that while I encountered initial technical challenges, I was able to resolve them efficiently by proactively reaching out to my fellow interns for peer support. Following my update, I observed the senior developers discussing their specific website deployments, which provided me with valuable context on the current production priorities of the team.
+
+## Participate in a retrospective or review past notes from one.
+
+
+
 ## Document one change you can make to improve your team collaboration.
 
 One change I can make to improve my team collaboration is to be more proactive in my communication with my mentors and team members. This can be done by being more transparent about my progress and any blockers I may be facing. Also, by being more open to feedback and suggestions will help me to ensure that everyone is on the same page and that we are working towards the same goals.
