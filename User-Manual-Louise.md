@@ -34,7 +34,7 @@
 
 ## Collaboration & Teamwork  
 - I work best in a team when...  
-    - I the team has a clear understanding to the task we are working on.
+    - the team has a clear understanding to the task we are working on.
     - We communicate effectively, respectfully, and joking around if necessary (lol).
     - The environment is not tense.
     - The work of my teammates are finished and progressed on time
